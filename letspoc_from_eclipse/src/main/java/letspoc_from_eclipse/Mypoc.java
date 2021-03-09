@@ -5,6 +5,7 @@ public class Mypoc {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 System.out.println("lets start its good to go");
+	System.out.println("hello to master");	
 	}
 
 }
